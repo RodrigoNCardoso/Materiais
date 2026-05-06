@@ -66,7 +66,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/SEU-USUARIO
+      link: https://github.com/rodrigoncardoso
       name: GitHub
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/SEU-PERFIL
