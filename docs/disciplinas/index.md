@@ -8,22 +8,20 @@ Ituiutaba.
 
 <div class="grid cards" markdown>
 
--   :material-cog-transfer:{ .lg .middle } **Automação Industrial**
+-   :material-cog-transfer:{ .lg .middle } **Automação Industrial I**
 
     ---
 
-    Curso Técnico em Eletrotécnica Integrado — sistemas binários, álgebra
-    booleana, pneumática, eletropneumática e métodos de sequenciamento
+    Pneumática, eletropneumática e métodos de sequenciamento
     (Cascata e Passo a Passo).
 
-    [:octicons-arrow-right-24: Acessar materiais](automacao-industrial/index.md)
+    [:octicons-arrow-right-24: Acessar materiais](automacao-industrial I/index.md)
 
--   :material-folder-multiple:{ .lg .middle } **Outras Disciplinas**
+-   :material-folder-multiple:{ .lg .middle } **Introdução a lógica e programação**
 
     ---
 
-    Espaço reservado para outros componentes curriculares ministrados
-    ao longo dos semestres letivos.
+    Sistemas Numéricos, binário, octal, hexadecimal, aritmética binária, funções lógicas, fatoração, mapa de karnaugh, introdução a programação, variáveis, constantes, estruturas de controle,      Arduino, portas digitais e analógicas, comunicação serial, PWM
 
     [:octicons-arrow-right-24: Ver mais](outras/index.md)
 
