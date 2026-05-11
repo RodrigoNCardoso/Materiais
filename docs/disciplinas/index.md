@@ -15,7 +15,7 @@ Ituiutaba.
     Pneumática, eletropneumática e métodos de sequenciamento
     (Cascata e Passo a Passo).
 
-    [:octicons-arrow-right-24: Acessar materiais](automacao-industrial I/index.md)
+    [:octicons-arrow-right-24: Acessar materiais](automacao-industrial-I/index.md)
 
 -   :material-folder-multiple:{ .lg .middle } **Introdução a lógica e programação**
 
@@ -23,7 +23,7 @@ Ituiutaba.
 
     Sistemas Numéricos, binário, octal, hexadecimal, aritmética binária, funções lógicas, fatoração, mapa de karnaugh, introdução a programação, variáveis, constantes, estruturas de controle,      Arduino, portas digitais e analógicas, comunicação serial, PWM
 
-    [:octicons-arrow-right-24: Ver mais](outras/index.md)
+    [:octicons-arrow-right-24: Ver mais](introdução-a-lógica-e-programação/index.md)
 
 </div>
 
